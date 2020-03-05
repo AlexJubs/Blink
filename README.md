@@ -2,6 +2,7 @@
 Impaired driving detection system. 
 
 Back-end: Flask
+
 Front-end: Vanila JS with a little bit of AngularJS
 
 # Inspiration
