@@ -1,6 +1,9 @@
 # Blink
 Impaired driving detection system. 
 
+Back-end: Flask
+Front-end: Vanila JS with a little bit of AngularJS
+
 # Inspiration
 Our team was inspired to find a solution for safer driving after considering the recent legalization of marijuana. Being impaired due to being high, drunk or tired is a very pertinent issue. Impaired driving not only puts the driver at risk but also risks the lives of everyone else on the road. If a driver was to be impaired and remain unresponsive behind the wheel, they would most likely cause an accident on the road.
 # What it does
