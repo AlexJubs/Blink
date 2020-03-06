@@ -12,3 +12,6 @@ Blink uses Microsoft's custom vision AI trained with photos of open and closed e
 # How we built it
 We are using Python and flask as the backend and angularjs as the front end. We used Azure computevision to train a model on open and closed eyes and then used that model to detect if the driver has fallen asleep by computing the amount of time their eyes are closed. We build a flask rest API using which the frontend predicts whether the driver has closed their eyes. we are using frames from the video captured by the webcam and detect closed eyes. Then we use the smartcar API to find the location of the smartcar and using twilio's SMS API we notify the driver's first responders and even the nearest police station. The frontend is developed by javascript with angular to parse json files from a jsonstored server with the info about the status of the driver, The status is displayed on the webpage by DOM manipulation.
 
+<p align="center">
+  <img src="file:///Users/alexjabbour/Desktop/Projects/Blink%20front-end/Blink.jpg">
+</p>
